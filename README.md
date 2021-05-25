@@ -4,7 +4,7 @@
 
 <p>https://justjd04.github.io/todolist-react/</p>
 
-<p><img src="todolist.png" alt="todo list app" width="500" height="500"></p>
+<p><a href="https://justjd04.github.io/todolist-react/"><img src="todolist.png" alt="todo list app" width="500" height="500"></a></p>
 
 <h2>Commands to create-react-app:</h2>
 
