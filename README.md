@@ -4,6 +4,8 @@
 
 https://justjd04.github.io/todolist-react/
 
+<img src="todolist.png" alt="todo list app" width="500" height="500">
+
 
 <h2>Commands used to install Font awesome:</h2>
 
