@@ -2,7 +2,7 @@
 
 <h2>The Published Todolist App:</h2>
 
-<p><a href="https://justjd04.github.io/todolist-react/" target="_blank">https://justjd04.github.io/todolist-react/</a></p>
+<p>https://justjd04.github.io/todolist-react/</p>
 
 <p><a href="https://justjd04.github.io/todolist-react/" target="_blank"><img src="todolist.png" alt="todo list app" width="500" height="500"></a></p>
 
