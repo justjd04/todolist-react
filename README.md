@@ -30,7 +30,7 @@
 <p>"predeploy": "npm run build",</p>
 <p>"deploy": "gh-pages -d build",</p>
 
-<p>git:</p>
+<p>cmd:</p>
 <p>git remote add origin https://github.com/justjd04/todolist-react</p>
 <p>git remote set-url origin https://github.com/justjd04/todolist-react</p>
 <p>npm run build</p>
