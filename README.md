@@ -1,8 +1,6 @@
 <h1>Todolist Using React</h1>
 
-<h2>The Published Todolist App:</h2>
-
-<p>https://justjd04.github.io/todolist-react/</p>
+<p>Published: https://justjd04.github.io/todolist-react/</p>
 
 <h2>Commands to create-react-app:</h2>
 
