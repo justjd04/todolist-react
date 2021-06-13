@@ -39,6 +39,9 @@
 <p>git remote</p>
 <p>git remote add origin https://github.com/justjd04/todolist-react.git</p>
 <p>git remote</p>
+<p>git status</p>
+<p>git add .</p>
+<p>git commit -m "initial commit"</p>
 <p>git push -u origin master</p>
 
 <!-- some notes
